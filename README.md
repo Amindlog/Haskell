@@ -4,7 +4,7 @@
 #   Написать функцию, кторая на вход принимает список целых чисел и выдает список, в который каждае число увеличивает на заданаю
 # Пример f[1,7,3]5 = [6,12,8]
 
-[file Issue One](https://link)
+[file Issue One](https://github.com/Amindlog/Haskell/blob/main/IssuesOne.hs)
 
 
 
@@ -13,7 +13,7 @@
 
 # Пример f[2,7,1][1,6,3] = [3,13,4]
 
-[file Issue Two](https://link)
+[file Issue Two](https://github.com/Amindlog/Haskell/blob/main/IssuesTwo.hs)
 
 
 # Issue tree
@@ -21,4 +21,4 @@
 
 # Пример. 6 Имеет делетели 1,2,3,6, то есть f(6) = 4
 
-[file Issue tree](https://link)
+[file Issue tree](https://github.com/Amindlog/Haskell/blob/main/IssuesTree.hs)
